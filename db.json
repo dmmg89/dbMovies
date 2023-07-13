@@ -1,0 +1,34 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Cine 1",
+        "Movies": "Ninguna película"
+      },
+      {
+        "id": 2,
+        "title": "Cine 2",
+        "Movies": "Alguna película"
+      },
+      {
+        "id": 3,
+        "title": "Post 3",
+        "Movies": "Todas película"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
