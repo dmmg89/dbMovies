@@ -2,17 +2,23 @@
     "posts": [
       {
         "id": 1,
-        "title": "Cine 1",
-        "Movies": "Ninguna película"
+        "title": "Cine Dot",
+        "latitude": "19.35945042726105",
+        "longitude": "-98.99048070345106",
+        "movies": "Ninguna película"
       },
       {
         "id": 2,
-        "title": "Cine 2",
+        "title": "Cine polis",
+        "latitude": "19.276588847027572",
+        "longitude": "-98.9382028961588",
         "Movies": "Alguna película"
       },
       {
         "id": 3,
         "title": "Post 3",
+        "latitude": "19.2961899169533",
+        "longitude": "-98.88620634917041",
         "Movies": "Todas película"
       }
     ],
