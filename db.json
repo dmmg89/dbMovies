@@ -3,16 +3,17 @@
       {
         "id": 1,
         "title": "Cine Dot",
-        "latitude": "19.35945042726105",
+        "info":{"latitude": "19.35945042726105",
         "longitude": "-98.99048070345106",
-        "movies": "Ninguna película"
+        "movies": "Ninguna película"}
       },
       {
         "id": 2,
         "title": "Cine polis",
+        "info":{
         "latitude": "19.276588847027572",
         "longitude": "-98.9382028961588",
-        "Movies": "Alguna película"
+        "Movies": "Alguna película"}
       },
       {
         "id": 3,
