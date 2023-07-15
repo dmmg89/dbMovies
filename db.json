@@ -2,25 +2,34 @@
     "posts": [
       {
         "id": 1,
-        "title": "CineDot",
-        "info":{"latitude": "19.35945042726105",
+        "franchise": "CineDot",
+        "name": "Los Reyes",
+        "latitude": "19.35945042726105",
         "longitude": "-98.99048070345106",
-        "movies": "Ninguna película"}
+        "movies": "Huele a orines"
       },
-      {
-        "id": 2,
-        "title": "Cinepolis",
-        "info":{
-        "latitude": "19.276588847027572",
-        "longitude": "-98.9382028961588",
-        "Movies": "Alguna película"}
+      {"id": 2,
+        "franchise": "CineDot",
+        "name": "Azcapotzalco",
+        "latitude": "19.477640937456748",
+        "longitude": "-99.18661675381081",
+        "movies": "Huele a robo"  
       },
       {
         "id": 3,
-        "title": "cinemex",
-        "latitude": "19.2961899169533",
-        "longitude": "-98.88620634917041",
-        "Movies": "Todas película"
+        "franchise": "Cinepolis",
+        "name": "Sendero Ixtapaluca",
+        "latitude": "19.29524345360913",
+        "longitude": "-98.88023438919106",
+        "Movies": "Alguna película" 
+      },
+      {
+        "id": 4,
+        "franchise":"Cinemex",
+        "name": "Chalco",
+        "latitude": "19.264349492221633",
+        "longitude": "-98.89712631822162",
+        "Movies": "Peliculas cinemex chalcu" 
       }
     ],
     "comments": [
