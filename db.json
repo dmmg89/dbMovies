@@ -32,17 +32,28 @@
         "Movies": "Peliculas cinemex chalcu" 
       }
     ],
-    "comments": [
+    "allMovies": [
       {
         "id": 1,
-        "body": "some comment",
-        "postId": 1
+        "name": "Spiderman",
+        "details": "Detalles de Spiderman"
       },
       {
         "id": 2,
-        "body": "some comment",
-        "postId": 1
+        "name": "Transformers",
+        "details": "Detalles de Transformers"
+      },
+      {
+        "id": 3,
+        "name": "Post Mortem",
+        "details": "Detalles de Post Mortem"
+      },
+      {
+        "id": 4,
+        "name": "Elementos",
+        "details": "Detalles de Elementos"
       }
+
     ],
     "profile": {
       "name": "typicode"
