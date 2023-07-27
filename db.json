@@ -5,56 +5,90 @@
         "franchise": "CineDot",
         "name": "Los Reyes",
         "latitude": "19.35945042726105",
-        "longitude": "-98.99048070345106",
-        "movies": "Huele a orines"
+        "longitude": "-98.99048070345106"
+        
       },
       {"id": 2,
         "franchise": "CineDot",
         "name": "Azcapotzalco",
         "latitude": "19.477640937456748",
-        "longitude": "-99.18661675381081",
-        "movies": "Huele a robo"  
+        "longitude": "-99.18661675381081"
+        
       },
       {
         "id": 3,
         "franchise": "Cinepolis",
-        "name": "Sendero Ixtapaluca",
-        "latitude": "19.29524345360913",
-        "longitude": "-98.88023438919106",
-        "Movies": "Alguna película" 
+        "name": "Ermita",
+        "latitude": "19.347688436827667",
+        "longitude": "-99.01827256065052"
       },
       {
         "id": 4,
+        "franchise":"Cinepolis",
+        "name": "Patio Valle Chalco",
+        "latitude": "19.300568470421947",
+        "longitude": "-98.95403276455542"
+      },
+      {
+        "id": 5,
+        "franchise":"Cinepolis",
+        "name": "Plaza Tlatelolco",
+        "latitude": "19.45067444738832",
+        "longitude": "-99.14084557205297"
+      },
+      {
+        "id": 6,
+        "franchise":"Cinepolis",
+        "name": "Copilco",
+        "latitude": "19.335552444633866",
+        "longitude": "-99.15705993769014"
+      },
+      {
+        "id": 7,
+        "franchise":"Cinepolis",
+        "name": "Perisur",
+        "latitude": "19.304736003346836",
+        "longitude": "-99.19006635800595"
+      },
+      {
+        "id": 8,
         "franchise":"Cinemex",
-        "name": "Chalco",
-        "latitude": "19.264349492221633",
-        "longitude": "-98.89712631822162",
-        "Movies": "Peliculas cinemex chalcu" 
+        "name": "Ixtapaluca",
+        "latitude": "19.312523671206193",
+        "longitude": "-98.88912571325446"
+      },
+      {
+        "id": 9,
+        "franchise":"Cinemex",
+        "name": "Iztapalapa",
+        "latitude": "19.379907536210094",
+        "longitude": "-99.05936248486591"
+      },
+      {
+        "id": 10,
+        "franchise":"Cinemex",
+        "name": "Parque Delta",
+        "latitude": "19.402886178016605",
+        "longitude": "-99.15363859315592"
+      },
+      {
+        "id": 11,
+        "franchise":"Cinemex",
+        "name": "Plaza Loreto",
+        "latitude": "19.339311435436432",
+        "longitude": "-99.19399360492987"
+      },
+      {
+        "id": 12,
+        "franchise":"Cinemex",
+        "name": "San Antonio",
+        "latitude": "19.38903723218702",
+        "longitude": "-99.19163466445801"
       }
     ],
-    "allMovies": [
-      {
-        "id": 1,
-        "name": "Spiderman",
-        "details": "Detalles de Spiderman"
-      },
-      {
-        "id": 2,
-        "name": "Transformers",
-        "details": "Detalles de Transformers"
-      },
-      {
-        "id": 3,
-        "name": "Post Mortem",
-        "details": "Detalles de Post Mortem"
-      },
-      {
-        "id": 4,
-        "name": "Elementos",
-        "details": "Detalles de Elementos"
-      }
-
-    ],
+    
+    
+    
     "profile": {
       "name": "typicode"
     }
