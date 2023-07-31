@@ -87,6 +87,50 @@
       }
     ],
     
+    "movie":[
+      {
+        "id" :1 ,
+        "name": "Pelicula 1",
+        "franchise":"Cinedot",
+        "cinema": "Los Reyes",
+        "time":["10:00","12:00","15:00"]
+      },
+      {
+        "id" :2 ,
+        "name": "Pelicula 2",
+        "franchise":"Cinedot",
+        "cinema": "Los Reyes",
+        "time":["11:00","13:00","16:00"]
+      },
+      {
+        "id" :3 ,
+        "name": "Pelicula 3",
+        "franchise":"Cinedot",
+        "cinema": "Los Reyes",
+        "time":["12:00","16:00","20:00"]
+      },
+      {
+        "id" :4 ,
+        "name": "Pelicula 1",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["10:00","12:00","15:00"]
+      },
+      {
+        "id" :5 ,
+        "name": "Pelicula 2",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["11:00","13:00","16:00"]
+      },
+      {
+        "id" :6 ,
+        "name": "Pelicula 3",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["12:00","16:00","20:00"]
+      }
+    ],
     
     
     "profile": {
