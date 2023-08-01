@@ -2,14 +2,14 @@
     "cinema": [
       {
         "id": 1,
-        "franchise": "CineDot",
+        "franchise": "Cinedot",
         "name": "Los Reyes",
         "latitude": "19.35945042726105",
         "longitude": "-98.99048070345106"
         
       },
       {"id": 2,
-        "franchise": "CineDot",
+        "franchise": "Cinedot",
         "name": "Azcapotzalco",
         "latitude": "19.477640937456748",
         "longitude": "-99.18661675381081"
@@ -84,6 +84,62 @@
         "name": "San Antonio",
         "latitude": "19.38903723218702",
         "longitude": "-99.19163466445801"
+      },
+      {
+        "id": 13,
+        "franchise":"Cinepolis",
+        "name": "Tezozómoc",
+        "latitude": "19.276510786888956", 
+        "longitude": "-98.93812434902965"
+      },
+      {
+        "id": 14,
+        "franchise":"Cinepolis",
+        "name": "Sendero Ixtapaluca",
+        "latitude": "19.295297092719476", 
+        "longitude": "-98.8802793557297"
+      },
+      {
+        "id": 15,
+        "franchise":"Cinepolis",
+        "name": "Patio Ayotla",
+        "latitude": "19.31134040103272", 
+        "longitude": "-98.9259634282342"
+      },
+      {
+        "id": 16,
+        "franchise":"Cinepolis",
+        "name": "Centro Tepozán",
+        "latitude": "19.363613948647462", 
+        "longitude": "-98.9895099046692"
+      },
+      {
+        "id": 17,
+        "franchise":"Cinemex",
+        "name": "Chalco",
+        "latitude": "19.264337744354133", 
+        "longitude": "-98.8971092367112"
+      },
+      {
+        "id": 18,
+        "franchise":"Cinemex",
+        "name": "Los Reyes",
+        "latitude": "19.357383891579232", 
+        "longitude": "-98.98907085857518"
+      },
+      {
+        "id": 19,
+        "franchise":"Cinemex",
+        "name": "Tezontle",
+        "latitude": "19.38483963367127", 
+        "longitude": "-99.08173987059986"
+      },
+      {
+        "id": 20,
+        "franchise":"Cinemex",
+        "name": "Portal Lomas Estrella",
+        "latitude": "19.320836102124094", 
+        "longitude": "-99.09428947756633"
       }
     ],
     
