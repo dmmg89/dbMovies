@@ -146,7 +146,7 @@
     "movie":[
       {
         "id" :1 ,
-        "name": "Pelicula 1",
+        "name": "Oppenheimer",
         "day" : "01082023",
         "franchise":"Cinedot",
         "cinema": "Los Reyes",
@@ -154,7 +154,7 @@
       },
       {
         "id" :2 ,
-        "name": "Pelicula 2",
+        "name": "Barbie",
         "day" : "01082023",
         "franchise":"Cinedot",
         "cinema": "Los Reyes",
@@ -162,7 +162,7 @@
       },
       {
         "id" :3 ,
-        "name": "Pelicula 3",
+        "name": "Elementos",
         "day" : "01082023",
         "franchise":"Cinedot",
         "cinema": "Los Reyes",
@@ -170,7 +170,7 @@
       },
       {
         "id" :4 ,
-        "name": "Pelicula 1",
+        "name": "Oppenheimer",
         "day" : "01082023",
         "franchise":"Cinepolis",
         "cinema": "Los Reyes",
@@ -178,7 +178,7 @@
       },
       {
         "id" :5 ,
-        "name": "Pelicula 2",
+        "name": "Barbie",
         "day" : "01082023",
         "franchise":"Cinepolis",
         "cinema": "Los Reyes",
@@ -186,7 +186,7 @@
       },
       {
         "id" :6 ,
-        "name": "Pelicula 3",
+        "name": "Elementos",
         "day" : "01082023",
         "franchise":"Cinepolis",
         "cinema": "Los Reyes",
