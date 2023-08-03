@@ -197,15 +197,6 @@
         "franchise":"Cinepolis",
         "cinema": "Los Reyes",
         "time":["12:00","16:00","20:00"]
-      },
-      {
-        "id" :7 ,
-        "name": "Yoselin Huele feo",
-        "details" : "Bastante feo",
-        "day" : "01082023",
-        "franchise":"Cinepolis",
-        "cinema": "Los Reyes",
-        "time":["12:00","16:00","20:00"]
       }
     ],
     
