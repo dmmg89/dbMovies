@@ -61,7 +61,7 @@
         "id": 8,
         "franchise":"Cinemex",
         "name": "Ixtapaluca",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $58\nNiño $53",
         "latitude": "19.312523671206193",
         "longitude": "-98.88912571325446"
       },
@@ -69,7 +69,7 @@
         "id": 9,
         "franchise":"Cinemex",
         "name": "Iztapalapa",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $68\nNiño $63",
         "latitude": "19.379907536210094",
         "longitude": "-99.05936248486591"
       },
@@ -77,7 +77,7 @@
         "id": 10,
         "franchise":"Cinemex",
         "name": "Parque Delta",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $113\nNiño $103",
         "latitude": "19.402886178016605",
         "longitude": "-99.15363859315592"
       },
@@ -85,7 +85,7 @@
         "id": 11,
         "franchise":"Cinemex",
         "name": "Plaza Loreto",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $108\nNiño $97",
         "latitude": "19.339311435436432",
         "longitude": "-99.19399360492987"
       },
@@ -93,7 +93,7 @@
         "id": 12,
         "franchise":"Cinemex",
         "name": "San Antonio",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $95\nNiño $86",
         "latitude": "19.38903723218702",
         "longitude": "-99.19163466445801"
       },
@@ -133,7 +133,7 @@
         "id": 17,
         "franchise":"Cinemex",
         "name": "Chalco",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $58\nNiño $53",
         "latitude": "19.264337744354133", 
         "longitude": "-98.8971092367112"
       },
@@ -141,7 +141,7 @@
         "id": 18,
         "franchise":"Cinemex",
         "name": "Los Reyes",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $37\nNiño $37",
         "latitude": "19.357383891579232", 
         "longitude": "-98.98907085857518"
       },
@@ -149,7 +149,7 @@
         "id": 19,
         "franchise":"Cinemex",
         "name": "Tezontle",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $95\nNiño $86",
         "latitude": "19.38483963367127", 
         "longitude": "-99.08173987059986"
       },
@@ -157,7 +157,7 @@
         "id": 20,
         "franchise":"Cinemex",
         "name": "Portal Lomas Estrella",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $90\nNiño $82",
         "latitude": "19.320836102124094", 
         "longitude": "-99.09428947756633"
       }
@@ -217,6 +217,14 @@
         "franchise":"Cinepolis",
         "cinema": "Los Reyes",
         "time":["12:00","16:00","20:00"]
+      },{
+        "id" :7 ,
+        "name": "Megalodón 2: El gran abismo",
+        "details" : "Clasif: B| 116  min",
+        "day" : "08082023",
+        "franchise":"Cinemex",
+        "cinema": "Ixtapaluca",
+        "time":["12:00","14:20","16:40","19:00","21:20"]
       }
     ],
     
