@@ -4,7 +4,7 @@
         "id": 1,
         "franchise": "Cinedot",
         "name": "Los Reyes",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $35\nNiño $33",
         "latitude": "19.35945042726105",
         "longitude": "-98.99048070345106"
         
@@ -12,7 +12,7 @@
       {"id": 2,
         "franchise": "Cinedot",
         "name": "Azcapotzalco",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $52\nNiño $49",
         "latitude": "19.477640937456748",
         "longitude": "-99.18661675381081"
         
@@ -21,15 +21,15 @@
         "id": 3,
         "franchise": "Cinepolis",
         "name": "Ermita",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $69\nNiño $50",
         "latitude": "19.347688436827667",
         "longitude": "-99.01827256065052"
       },
       {
         "id": 4,
         "franchise":"Cinepolis",
-        "name": "Patio Valle Chalco",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "name": "Sendero Valle Chalco",
+        "prices": "Boletos \nAdulto: $60\nNiño $45",
         "latitude": "19.300568470421947",
         "longitude": "-98.95403276455542"
       },
@@ -37,7 +37,7 @@
         "id": 5,
         "franchise":"Cinepolis",
         "name": "Plaza Tlatelolco",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $50\nNiño $30",
         "latitude": "19.45067444738832",
         "longitude": "-99.14084557205297"
       },
@@ -45,7 +45,7 @@
         "id": 6,
         "franchise":"Cinepolis",
         "name": "Copilco",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $60\nNiño $40",
         "latitude": "19.335552444633866",
         "longitude": "-99.15705993769014"
       },
@@ -53,7 +53,7 @@
         "id": 7,
         "franchise":"Cinepolis",
         "name": "Perisur",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $95\nNiño $85",
         "latitude": "19.304736003346836",
         "longitude": "-99.19006635800595"
       },
@@ -101,7 +101,7 @@
         "id": 13,
         "franchise":"Cinepolis",
         "name": "Tezozómoc",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $35\nNiño $35",
         "latitude": "19.276510786888956", 
         "longitude": "-98.93812434902965"
       },
@@ -109,7 +109,7 @@
         "id": 14,
         "franchise":"Cinepolis",
         "name": "Sendero Ixtapaluca",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $65\nNiño $50",
         "latitude": "19.295297092719476", 
         "longitude": "-98.8802793557297"
       },
@@ -117,7 +117,7 @@
         "id": 15,
         "franchise":"Cinepolis",
         "name": "Patio Ayotla",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $57\nNiño $42",
         "latitude": "19.31134040103272", 
         "longitude": "-98.9259634282342"
       },
@@ -125,7 +125,7 @@
         "id": 16,
         "franchise":"Cinepolis",
         "name": "Centro Tepozán",
-        "prices": "Boleto Adulto $$ | Boleto niño $$",
+        "prices": "Boletos \nAdulto: $35\nNiño $35",
         "latitude": "19.363613948647462", 
         "longitude": "-98.9895099046692"
       },
