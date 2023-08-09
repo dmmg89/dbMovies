@@ -167,20 +167,20 @@
       {
         "id" :1 ,
         "name": "Oppenheimer",
-        "details" : "Detalles Oppenheimer",
+        "details" : "Clasif: B15| 180  min",
         "day" : "01082023",
         "franchise":"Cinedot",
         "cinema": "Los Reyes",
-        "time":["10:00","12:00","15:00"]
+        "time":["13:30","17:00","20:20"]
       },
       {
         "id" :2 ,
         "name": "Barbie",
-        "details" : "Detalles Barbie",
+        "details" : "Clasif: B| 114  min",
         "day" : "01082023",
         "franchise":"Cinedot",
         "cinema": "Los Reyes",
-        "time":["11:00","13:00","16:00"]
+        "time":["11:00","13:20","14:00", "15:40", "18:00"]
       },
       {
         "id" :3 ,
@@ -194,29 +194,29 @@
       {
         "id" :4 ,
         "name": "Oppenheimer",
-        "details" : "Detalles Oppenheimer",
+        "details" : "Clasif: B15| 180  min",
         "day" : "01082023",
         "franchise":"Cinepolis",
         "cinema": "Los Reyes",
-        "time":["10:00","12:00","15:00"]
+        "time":["13:45","18:00","22:00"]
       },
       {
         "id" :5 ,
         "name": "Barbie",
-        "details" : "Detalles Barbie",
+        "details" : "Clasif: B| 114  min",
         "day" : "01082023",
         "franchise":"Cinepolis",
         "cinema": "Los Reyes",
-        "time":["11:00","13:00","16:00"]
+        "time":["12:15","13:00","14:15","15:45","17:45","18:30"]
       },
       {
         "id" :6 ,
         "name": "Elementos",
-        "details" : "Detalles Elementos",
+        "details" : "Clasif: A| 110  min",
         "day" : "01082023",
         "franchise":"Cinepolis",
         "cinema": "Los Reyes",
-        "time":["12:00","16:00","20:00"]
+        "time":["12:30","16:00"]
       },{
         "id" :7 ,
         "name": "Megalodón 2: El gran abismo",
@@ -225,7 +225,107 @@
         "franchise":"Cinemex",
         "cinema": "Ixtapaluca",
         "time":["12:00","14:20","16:40","19:00","21:20"]
+      },
+      {
+        "id" :8 ,
+        "name": "Megalodón 2: El gran abismo",
+        "details" : "2D Doblada",
+        "day" : "01082023",
+        "franchise":"Cinedot",
+        "cinema": "Los Reyes",
+        "time":["11:20","13:45","16:00","19:20","21:15"]
+      },
+      {
+        "id" :9 ,
+        "name": "Megalodón 2: El gran abismo",
+        "details" : "3D Doblada",
+        "day" : "01082023",
+        "franchise":"Cinedot",
+        "cinema": "Los Reyes",
+        "time":["12:45","14:40","17:10"]
+      },
+      {
+        "id" :10 ,
+        "name": "Escape bajo fuego",
+        "details" : "Clasif: B| 119  min",
+        "day" : "01082023",
+        "franchise":"Cinedot",
+        "cinema": "Los Reyes",
+        "time":["12:30"]
+      },
+      {
+        "id" :11,
+        "name": "La consagración",
+        "details" : "Clasif: B15| 116  min",
+        "day" : "01082023",
+        "franchise":"Cinedot",
+        "cinema": "Los Reyes",
+        "time":["11:30"]
+      },
+      {
+        "id" :12 ,
+        "name": "Escape bajo fuego",
+        "details" : "Clasif: B| 119  min",
+        "day" : "01082023",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["14:30", "19:45"]
+      },
+      {
+        "id" :12 ,
+        "name": "Guardianes del museo",
+        "details" : "Clasif: A| 80  min",
+        "day" : "01082023",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["13:15"]
+      },
+      {
+        "id" :13 ,
+        "name": "Locas en Apuros",
+        "details" : "Clasif: B15| 94  min",
+        "day" : "01082023",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["16:30","19:15"]
+      },
+      {
+        "id" :14 ,
+        "name": "Misión Imposible - Sentencia Mortal Parte 1",
+        "details" : "Clasif: B| 163  min",
+        "day" : "01082023",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["14:00","17:15"]
+      },
+      {
+        "id" :15 ,
+        "name": "The First Slam Dunk",
+        "details" : "Clasif: B| 124  min",
+        "day" : "01082023",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["20:30"]
+      },
+      {
+        "id" :16,
+        "name": "Tortugas Ninja: Caos Mutante",
+        "details" : "Clasif: S/C| 99  min",
+        "day" : "01082023",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["19:00","21:15"]
+      },
+      {
+        "id" :17 ,
+        "name": "Transformers: El despertar de las bestias",
+        "details" : "Clasif: B| 126  min",
+        "day" : "01082023",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["15:15"]
       }
+      
     ],
     
     
