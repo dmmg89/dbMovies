@@ -168,7 +168,7 @@
         "id" :1 ,
         "name": "Oppenheimer",
         "details" : "Clasif: B15| 180  min",
-        "day" : "01082023",
+        "day" : "2023-08-29",
         "franchise":"Cinedot",
         "cinema": "Los Reyes",
         "time":["13:30","17:00","20:20"]
@@ -177,7 +177,7 @@
         "id" :2 ,
         "name": "Barbie",
         "details" : "Clasif: B| 114  min",
-        "day" : "01082023",
+        "day" : "2023-08-29",
         "franchise":"Cinedot",
         "cinema": "Los Reyes",
         "time":["11:00","13:20","14:00", "15:40", "18:00"]
@@ -186,7 +186,7 @@
         "id" :3 ,
         "name": "Elementos",
         "details" : "Detalles Elementos",
-        "day" : "01082023",
+        "day" : "2023-08-29",
         "franchise":"Cinedot",
         "cinema": "Los Reyes",
         "time":["12:00","16:00","20:00"]
@@ -195,7 +195,7 @@
         "id" :4 ,
         "name": "Oppenheimer",
         "details" : "Clasif: B15| 180  min",
-        "day" : "01082023",
+        "day" : "2023-08-29",
         "franchise":"Cinepolis",
         "cinema": "Los Reyes",
         "time":["13:45","18:00","22:00"]
@@ -204,7 +204,7 @@
         "id" :5 ,
         "name": "Barbie",
         "details" : "Clasif: B| 114  min",
-        "day" : "01082023",
+        "day" : "2023-08-29",
         "franchise":"Cinepolis",
         "cinema": "Los Reyes",
         "time":["12:15","13:00","14:15","15:45","17:45","18:30"]
@@ -213,7 +213,7 @@
         "id" :6 ,
         "name": "Elementos",
         "details" : "Clasif: A| 110  min",
-        "day" : "01082023",
+        "day" : "2023-08-29",
         "franchise":"Cinepolis",
         "cinema": "Los Reyes",
         "time":["12:30","16:00"]
@@ -221,7 +221,7 @@
         "id" :7 ,
         "name": "Megalodón 2: El gran abismo",
         "details" : "Clasif: B| 116  min",
-        "day" : "08082023",
+        "day" : "2023-08-29",
         "franchise":"Cinemex",
         "cinema": "Ixtapaluca",
         "time":["12:00","14:20","16:40","19:00","21:20"]
@@ -230,7 +230,7 @@
         "id" :8 ,
         "name": "Megalodón 2: El gran abismo",
         "details" : "2D Doblada",
-        "day" : "01082023",
+        "day" : "2023-08-29",
         "franchise":"Cinedot",
         "cinema": "Los Reyes",
         "time":["11:20","13:45","16:00","19:20","21:15"]
@@ -239,7 +239,7 @@
         "id" :9 ,
         "name": "Megalodón 2: El gran abismo",
         "details" : "3D Doblada",
-        "day" : "01082023",
+        "day" : "2023-08-29",
         "franchise":"Cinedot",
         "cinema": "Los Reyes",
         "time":["12:45","14:40","17:10"]
