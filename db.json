@@ -1,6 +1,4 @@
 {
-
-
     "Cinedot":[
      { "id":1,
      "name": "Los Reyes",
@@ -481,8 +479,7 @@
         "time":["15:15"]
       }
       
-    ],
-    
+    ],   
     
     "profile": {
       "name": "typicode"
