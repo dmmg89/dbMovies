@@ -1,5 +1,160 @@
 {
-    "cinema": [
+
+
+    "Cinedot":[
+     { "id":1,
+     "name": "Los Reyes",
+     "prices": "Boletos \nAdulto: $35\nNiño $33",
+     "latitude": "19.35945042726105",
+     "longitude": "-98.99048070345106"
+    },
+    {
+      "id":2,
+    "name": "Azcapotzalco",
+    "prices": "Boletos \nAdulto: $52\nNiño $49",
+    "latitude": "19.477640937456748",
+    "longitude": "-99.18661675381081"
+    }
+    ],
+
+    "Cinepolis":[      
+      {"id": 1,
+      "name": "Ermita",
+      "prices": "Boletos \nAdulto: $69\nNiño $50",
+      "latitude": "19.347688436827667",
+      "longitude": "-99.01827256065052"
+    },
+    {
+      "id": 2,
+      "name": "Sendero Valle Chalco",
+      "prices": "Boletos \nAdulto: $60\nNiño $45",
+      "latitude": "19.300568470421947",
+      "longitude": "-98.95403276455542"
+    },
+    {
+      "id": 3,
+      "name": "Plaza Tlatelolco",
+      "prices": "Boletos \nAdulto: $50\nNiño $30",
+      "latitude": "19.45067444738832",
+      "longitude": "-99.14084557205297"
+    },
+    {
+      "id": 4,
+      "name": "Copilco",
+      "prices": "Boletos \nAdulto: $60\nNiño $40",
+      "latitude": "19.335552444633866",
+      "longitude": "-99.15705993769014"
+    },
+    {
+      "id": 5,
+      "name": "Perisur",
+      "prices": "Boletos \nAdulto: $95\nNiño $85",
+      "latitude": "19.304736003346836",
+      "longitude": "-99.19006635800595"
+    }
+    ],
+
+    "Cinemex":[
+
+      {
+        "id": 1,
+        "name": "Ixtapaluca",
+        "prices": "Boletos \nAdulto: $58\nNiño $53",
+        "latitude": "19.312523671206193",
+        "longitude": "-98.88912571325446"
+      },
+      {
+        "id": 2,
+       "name": "Iztapalapa",
+        "prices": "Boletos \nAdulto: $68\nNiño $63",
+        "latitude": "19.379907536210094",
+        "longitude": "-99.05936248486591"
+      },
+      {
+        "id": 3,
+         "name": "Parque Delta",
+        "prices": "Boletos \nAdulto: $113\nNiño $103",
+        "latitude": "19.402886178016605",
+        "longitude": "-99.15363859315592"
+      },
+      {
+        "id": 4,
+        "name": "Plaza Loreto",
+        "prices": "Boletos \nAdulto: $108\nNiño $97",
+        "latitude": "19.339311435436432",
+        "longitude": "-99.19399360492987"
+      },
+      {
+        "id": 5,
+        "name": "San Antonio",
+        "prices": "Boletos \nAdulto: $95\nNiño $86",
+        "latitude": "19.38903723218702",
+        "longitude": "-99.19163466445801"
+      }
+
+    ],
+
+    "2023-09-03":[
+
+      {
+        "id" :1 ,
+        "name": "Oppenheimer",
+        "details" : "Clasif: B15| 180  min",
+        "franchise":"Cinedot",
+        "cinema": "Los Reyes",
+        "time":["13:30","17:00","20:20"]
+      },
+      {
+        "id" :2 ,
+        "name": "Barbie",
+        "details" : "Clasif: B| 114  min",
+        "franchise":"Cinedot",
+        "cinema": "Los Reyes",
+        "time":["11:00","13:20","14:00", "15:40", "18:00"]
+      },
+      {
+        "id" :3 ,
+        "name": "Elementos",
+        "details" : "Detalles Elementos",
+        "franchise":"Cinedot",
+        "cinema": "Los Reyes",
+        "time":["12:00","16:00","20:00"]
+      },
+      {
+        "id" :4 ,
+        "name": "Oppenheimer",
+        "details" : "Clasif: B15| 180  min",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["13:45","18:00","22:00"]
+      },
+      {
+        "id" :5 ,
+        "name": "Barbie",
+        "details" : "Clasif: B| 114  min",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["12:15","13:00","14:15","15:45","17:45","18:30"]
+      },
+      {
+        "id" :6 ,
+        "name": "Elementos",
+        "details" : "Clasif: A| 110  min",
+        "franchise":"Cinepolis",
+        "cinema": "Los Reyes",
+        "time":["12:30","16:00"]
+      },{
+        "id" :7 ,
+        "name": "Megalodón 2: El gran abismo",
+        "details" : "Clasif: B| 116  min",
+        "franchise":"Cinemex",
+        "cinema": "Ixtapaluca",
+        "time":["12:00","14:20","16:40","19:00","21:20"]
+      }
+
+    ],
+
+    "_cinema": [
       {
         "id": 1,
         "franchise": "Cinedot",
@@ -163,7 +318,7 @@
       }
     ],
     
-    "movie":[
+    "_movie":[
       {
         "id" :1 ,
         "name": "Oppenheimer",
